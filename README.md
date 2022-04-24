@@ -17,14 +17,25 @@ samples, guidance on mobile development, and a full API reference.
 
 ## PROBLEM IN CURRENT SCENARIO 
 The second largest populated country in the world, India faces various hindrances to its development. India’s health ministry did not respond to a request for comment on how it will cope with the predicted rise in infections, given that most public hospitals are overcrowded at the best of times. The federal government has said in media briefings that not all patients need hospitalization and it is making rapid efforts to increase the number of hospital beds and procure health gear.
+
 The federal government’s data from last year showed there were about 714,000 hospital beds in India, up from about 540,000 in 2009. However, given India’s rising population, the number of beds per 1,000 people has grown only slightly in that time.
+
 India has 0.5 beds per 1,000 people, according to the latest data from the Organization for Economic Co-operation and Development (OECD), up from 0.4 beds in 2009, but among lowest of countries surveyed by the OECD. In contrast, China has 4.3 hospital beds per 1,000 people and the United States has 2.8, according to the latest OECD figures.
+
+Hence, a better solution is needed and here comes technology in place to cope up with the situation. As per the situation, it would have been better if people knew if any bed is empty at some hospital or not. So, a mobile application will come in handy which will show the availability of beds (with different types of beds) at any hospital as per user's choice/requirements according to their geolocation or on their search basis.
+
 Hence there is a need of managing this Situation immediately!!!
 
 ## PROTOTYPE 
-We at Flutterify aim to build an easy and interactive mobile app for both IOS and android users  to track the no. of beds in the nearby Hospitals .
-We are using Google  Maps sdk and Places api to find the details of nearest hospital depending upon the user's current  location , using the geolocation package provided by Flutter. As getting the each and every database of all the hospitals is not possible so we are trying to build our own  serverless No SQL  database with the help of   Firebase and cloud Firestore to update the no. of beds .Without going to hospitals users can check  if there is available bed or not !
-Hence this small initiative is an effective way to manage the crisis situation. 
+We at Flutterify aim to build an easy and interactive mobile app for both IOS and android users to track the number of beds in the nearby Hospitals and also in the Hospitals of other cities.
+
+We are using **[covidbedsindia.in](https://documenter.getpostman.com/view/15598746/TzXzDH7k#3188a9c3-c98d-4edd-ba17-34816f9571d6) API** to find the details of nearest hospital depending upon the user's current location, using the geolocation package provided by Flutter and people can also search by the city name or the hospital name to find the number of beds available in a particular hospital/hospitals of a city. 
+
+As getting the each and every database of all the hospitals is not possible so we are trying to build our own serverless No SQL database with the help of Firebase and cloud Firestore to update the number of beds. 
+
+So, now without rushing to hospitals in search of bed users can check if there is available bed or not by using our app!
+We've also added an **unique feature** in our app like users can directly contact the hospitals by calling them directly to ask for any queries.
+Hence, we've taken a small initiative this small initiative is an effective way to manage the crisis situation. 
 
 ## Technology STACK
 
@@ -39,7 +50,7 @@ Hence this small initiative is an effective way to manage the crisis situation.
 ## Download the app from [here](https://drive.google.com/file/d/1_ffyqvu2N-g8XUQi3S8Kda_qZ2ueCDrV/view?usp=sharing).
 **Steps-** Open the link -> Click Download -> Click Drive -> Choose Your Account -> Click App Installer -> Open App
 
-## PPT Link [here]().
+## PPT Link [here](https://docs.google.com/presentation/d/1-xvJQnlfb7X_ilyWGF9KTiYqHeHKI3Gyjl3EE0UjVuc/edit#slide=id.g125944e0cb1_3_25).
 
 <!-- ## Video Link [here](). -->
 
