@@ -70,7 +70,7 @@ Hence, we've taken a small initiative this small initiative is an effective way 
 
 - Open cmd/terminal
 - Navigate to your workspace
-- Then type in: ```git clone https://github.com/SAMYAK99/TrackaBed```
+- Then type in: ```git clone https://github.com/OneDreamForWin/OneDream```
 - Import the Project in Android Studio and start coding!
 
 ## To Setup the project properly add the following to local.properties under Gradle Scripts
