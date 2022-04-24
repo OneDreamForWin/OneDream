@@ -1,4 +1,4 @@
-# bed_tracker
+# Bed_Tracker
 
 A new Flutter project for tracking hospital beds according to the user's location.
 
@@ -23,6 +23,13 @@ As getting the each and every database of all the hospitals is not possible so w
 So, now without rushing to hospitals in search of bed users can check if there is available bed or not by using our app!
 We've also added an **unique feature** in our app like users can directly contact the hospitals by calling them directly to ask for any queries.
 Hence, we've taken a small initiative this small initiative is an effective way to manage the crisis situation. 
+
+## What makes the App Unique?
+
+- Realtime Data of the bed, So in case of emergency the user is up to date with the availability of the beds.
+- Hospital Can Register and update the bed count from the app itself which is very easy and handly compared to maintaining in a desktop software.
+- The user (Patient) can directly call the hospital via the app. No need to google number online.
+- Search any hospital in the city/ state by name within the app.
 
 ## Technology STACK
 
