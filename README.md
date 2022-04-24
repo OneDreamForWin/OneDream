@@ -39,7 +39,7 @@ Hence, we've taken a small initiative this small initiative is an effective way 
 
 ## PPT Link [here](https://docs.google.com/presentation/d/1-xvJQnlfb7X_ilyWGF9KTiYqHeHKI3Gyjl3EE0UjVuc/edit#slide=id.g125944e0cb1_3_25).
 
-<!-- ## Video Link [here](). -->
+## Figma Design File Link [here](https://www.figma.com/file/0fb7UNXmUJMJzjr4Nr30JP/Bed_Tracker?node-id=0%3A1).
 
 ## Permissions
 
