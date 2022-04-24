@@ -24,7 +24,7 @@ Hence there is a need of managing this Situation immediately!!!
 ## PROTOTYPE 
 We at Flutterify aim to build an easy and interactive mobile app for both IOS and android users  to track the no. of beds in the nearby Hospitals .
 We are using Google  Maps sdk and Places api to find the details of nearest hospital depending upon the user's current  location , using the geolocation package provided by Flutter. As getting the each and every database of all the hospitals is not possible so we are trying to build our own  serverless No SQL  database with the help of   Firebase and cloud Firestore to update the no. of beds .Without going to hospitals users can check  if there is available bed or not !
-Hence this small initiative is an effective way to manage the crisis situation 
+Hence this small initiative is an effective way to manage the crisis situation. 
 
 ## Technology STACK
 
@@ -36,7 +36,7 @@ Hence this small initiative is an effective way to manage the crisis situation
 -	Flutter Provider
 
 
-## Download the app from [here]().
+## Download the app from [here](https://drive.google.com/file/d/1_ffyqvu2N-g8XUQi3S8Kda_qZ2ueCDrV/view?usp=sharing).
 **Steps-** Open the link -> Click Download -> Click Drive -> Choose Your Account -> Click App Installer -> Open App
 
 ## PPT Link [here]().
@@ -55,12 +55,16 @@ Hence this small initiative is an effective way to manage the crisis situation
 ## Screnshots 
 <table>
   <tr>
-    <td><img src="" height = "580" width="300"></td>
-    <td><img src="" height = "580" width="300"></td>
+    <td><img src="https://user-images.githubusercontent.com/104226601/164974955-09dcf6b8-67cf-4e42-9ec1-66716c1f3ed6.png" height = "580" width="300"></td>
+    <td><img src="https://user-images.githubusercontent.com/104226601/164975037-d3b607ab-4108-4a90-9d4e-b93dcf4a439d.png" height = "580" width="300"></td>
   </tr>
   <tr>
-    <td><img src="" height = "580" width="300"></td>
-    <td><img src="" height = "580" width="300"></td>   
+    <td><img src="https://user-images.githubusercontent.com/104226601/164975085-d7ceef70-fd81-4827-ae9b-6e7a9098537a.png" height = "580" width="300"></td>
+    <td><img src="https://user-images.githubusercontent.com/104226601/164975136-b82c23d6-cdcd-4e89-be1b-2308e2179102.png" height = "580" width="300"></td>   
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/104226601/164975188-2062c0dd-d891-4f6e-9fd9-26ab40455f28.png" height = "580" width="300"></td>
+    <td><img src="https://user-images.githubusercontent.com/104226601/164975216-269619ac-d3bb-4ec0-b256-c21a75308658.png" height = "580" width="300"></td>
   </tr>
 </table>
 
